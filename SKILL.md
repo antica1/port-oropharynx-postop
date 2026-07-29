@@ -4,7 +4,7 @@ description: "Self-contained oropharynx PORT module — surgical bed fusion, man
 version: 1.0.0
 author: Zhu Guopei / Shanghai Ninth People's Hospital
 license: MIT
-nmetadata:
+metadata:
   hermes:
     tags: [head-neck, radiotherapy, port, oropharynx, postoperative]
     related_skills: [neoadjuvant-deescalation, oropharynx-definitive-rt]
